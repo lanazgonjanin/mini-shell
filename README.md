@@ -2,7 +2,7 @@
 
 A lightweight Unix-style command-line shell implemented in C. The program executes user commands through process creation and management, and includes a circular command history with support for repeating previous commands.
 
-Developed as part of COMPSCI 3SH3: Operating Systems at McMaster University under Dr. Neerja Mhaskar, in collaboration with Thaneesha Sivasithambaram.
+Developed as part of COMPSCI 3SH3 (Operating Systems) at McMaster University under Dr. Neerja Mhaskar, in collaboration with Thaneesha Sivasithambaram.
 
 ## Features
 
