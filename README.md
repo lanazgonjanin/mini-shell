@@ -16,8 +16,6 @@ Developed as part of COMPSCI 3SH3 (Operating Systems) at McMaster University und
 
 ## Operating Systems Concepts
 
-This project demonstrates:
-
 * Process creation and management
 * Parent-child process relationships
 * System calls
